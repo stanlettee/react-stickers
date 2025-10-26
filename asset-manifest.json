@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-stickers/static/css/main.25ef75c0.css",
+    "main.css": "/react-stickers/static/css/main.99fd4033.css",
     "main.js": "/react-stickers/static/js/main.0d597bb5.js",
     "static/js/453.340a117d.chunk.js": "/react-stickers/static/js/453.340a117d.chunk.js",
     "index.html": "/react-stickers/index.html",
-    "main.25ef75c0.css.map": "/react-stickers/static/css/main.25ef75c0.css.map",
+    "main.99fd4033.css.map": "/react-stickers/static/css/main.99fd4033.css.map",
     "main.0d597bb5.js.map": "/react-stickers/static/js/main.0d597bb5.js.map",
     "453.340a117d.chunk.js.map": "/react-stickers/static/js/453.340a117d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25ef75c0.css",
+    "static/css/main.99fd4033.css",
     "static/js/main.0d597bb5.js"
   ]
 }
