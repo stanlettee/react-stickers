@@ -1,15 +1,18 @@
 .div {
     display: flex;
-    gap: 100px;
+    gap: 50px;
     align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1800px;
 }
 
 .list {
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
-    width: 1000px;
-    padding-left: 100px;
+    width: 800px;
+    justify-content: center;
 }
 
 .item {
